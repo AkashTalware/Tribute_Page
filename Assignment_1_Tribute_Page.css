@@ -1,0 +1,60 @@
+#name{
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+
+body {
+    background-image: url("https://onebigphoto.com/uploads/2011/10/lighting-strike-new-york.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    margin: 60px 60px 60px 100px;
+}
+.center {
+    margin-left: auto;
+    margin-right:auto;
+    text-align:center;
+    font-size: 20px;
+    line-height: 1px;
+}
+
+p {
+    text-align: justify;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 15px;
+    text-indent: 30px;
+}
+
+ul li {
+    font-family: 'Merriweather', sans-serif;
+    font-size: 15px;
+    line-height: 20Spx;
+}
+
+.transbox {
+    margin: 2%;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+}
+
+.transbox p,h1, h3, ul, h4{
+    margin: 2%;
+    color: #000000;
+
+}
+#image{
+    display: block;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 2% ;
+}
+
+#birth {
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+}
